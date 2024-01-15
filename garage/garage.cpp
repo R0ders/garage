@@ -15,5 +15,6 @@ int main()
 	string Vmarque, Vtype;
 	int choix, Vpuissance, Vdist;
 
-	
+	do {
+		AfficheMenu();
 }
